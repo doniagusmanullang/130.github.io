@@ -125,7 +125,7 @@ body{
           <a href="pw.html"><legend id="forgot-pass">Forgot password?</legend></a>
           <a href="register.html" id="signup">Don't have account yet?</a>
           
-          </script>
+          
                </form>
           </div>
           </div>
